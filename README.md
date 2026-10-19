@@ -1,2 +1,3 @@
 # Projects
-Where I store my projects through years of learning
+My first machine learning project
+It is kinda bad though
